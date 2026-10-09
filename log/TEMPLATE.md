@@ -1,6 +1,6 @@
 # YYYY-MM-DD
 
-- Lecture / section:
+- Part / chapter / lesson:
 - Time spent:
 - What I learned:
 - Code written:

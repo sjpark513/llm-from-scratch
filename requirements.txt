@@ -1,5 +1,7 @@
-torch
-tiktoken
+# Part 1–2: N-grams, NPLM
 numpy
 matplotlib
 jupyter
+kiwipiepy  # Korean morphological analysis (Ch.2); swap for the analyzer the course uses
+# Part 3–4: Transformer, pretraining, fine-tuning
+torch
